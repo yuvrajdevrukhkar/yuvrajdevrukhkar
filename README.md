@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuvrajdevrukhkar
 - 👀 I’m interested in programming,machine learning.
-- 🌱 I’m currently learning programming langauges
+- 🌱 I’m currently learning programming langauges,machine learning.
 - 💞️ I’m looking to collaborate on programming,machine learning.
 - 📫 How to reach me yuvraj.devrukhkar47@gmail.com
 
